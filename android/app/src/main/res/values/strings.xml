@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IminScan</string>
+    <string name="count">count: </string>
+    <string name="time_consuming">time consuming: </string>
+    <string name="symbology">Symbology: </string>
+    <string name="capacity">capacity: </string>
+    <string name="content">content: </string>
+    <string name="presentation_mediarouter">Presentation MediaRouter</string>
+    <string name="presentation_displaymanager">Presentation DisplayManager</string>
+    <string name="set_launch_display_id">setLaunchDisplayId</string>
+    <string name="presentation">Presentation Second Screen</string>
+    <string name="open_display">Enable dual-screen differential display function</string>
+    <string name="show_text">Display text</string>
+    <string name="show_pic">Display picture</string>
+    <string name="show_video">Play video</string>
+    <string name="no_second_screen">No second screen</string>
+    <string name="display_title">Second screen</string>
+</resources>

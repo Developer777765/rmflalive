@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">液晶显示屏Demo</string>
+    <string name="presentation_mediarouter">Presentation MediaRouter</string>
+    <string name="presentation_displaymanager">Presentation DisplayManager</string>
+    <string name="set_launch_display_id">setLaunchDisplayId</string>
+    <string name="presentation">Presentation Second Screen</string>
+    <string name="open_display">开启双屏异显功能</string>
+    <string name="show_text">显示文字</string>
+    <string name="show_pic">显示图片</string>
+    <string name="show_video">播放视频</string>
+    <string name="no_second_screen">没有第二屏</string>
+    <string name="display_title">第二屏</string>
+
+</resources>
